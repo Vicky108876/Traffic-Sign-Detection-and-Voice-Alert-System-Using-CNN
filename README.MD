@@ -57,4 +57,4 @@ Run the following command to install dependencies:
 
 ```bash
 pip install opencv-python numpy keras tensorflow pyttsx3
----
+
