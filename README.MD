@@ -42,7 +42,7 @@ Run the following command to install dependencies:
 
 ```bash
 pip install opencv-python numpy keras tensorflow pyttsx3
-exit
+---
 #🧠 Step 1: Train the Model
 
 ### You must first train the model using the dataset.
