@@ -29,20 +29,6 @@ The project uses the **German Traffic Sign Recognition Benchmark (GTSRB)** datas
 
 Datset  :https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 ---
-
-## ⚙️ Setup Instructions
-
-### ✅ Prerequisites
-
-- Python 3.11 (recommended)
-
-### 📦 Install Required Packages
-
-Run the following command to install dependencies:
-
-```bash
-pip install opencv-python numpy keras tensorflow pyttsx3
----
 #🧠 Step 1: Train the Model
 
 ### You must first train the model using the dataset.
@@ -58,3 +44,17 @@ python Training_File.py
 Once training is complete and model_trained.p is generated:
 
 python TrafficSign_Main.py
+-----
+
+
+### ✅ Prerequisites
+
+- Python 3.11 (recommended)
+
+### 📦 Install Required Packages
+
+Run the following command to install dependencies:
+
+```bash
+pip install opencv-python numpy keras tensorflow pyttsx3
+---
